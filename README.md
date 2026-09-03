@@ -1,6 +1,6 @@
 # Flocking Simulation
 
-Progetto di programmazione realizzato da **Leo, Telly e Alessio**.
+Progetto di programmazione realizzato da **Leo, Telly e "Alessio"**.
 
 ## Descrizione
 
