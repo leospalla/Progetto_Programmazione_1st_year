@@ -59,7 +59,6 @@ I principali file del progetto sono:
 ├── boid.test.cpp
 ├── flock.test.cpp
 ├── vector.test.cpp
-└── DL_exercise_0.ipynb
 ```
 
 ### `Boid`
@@ -91,7 +90,6 @@ Il progetto utilizza:
 * **C++**
 * **CMake**
 * **GoogleTest** per i test
-* **Jupyter Notebook** per l'esercizio di Deep Learning incluso nel progetto
 
 ## Compilazione
 
