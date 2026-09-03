@@ -6,7 +6,7 @@ Progetto di programmazione realizzato da **Leo, Telly e "Alessio"**.
 
 Il progetto consiste nella realizzazione di una **flocking simulation**, ovvero una simulazione del comportamento collettivo di uno stormo di uccelli.
 
-Informazioni complete sono presenti in /docs/Relazione progetto.
+Informazioni complete sono presenti in /docs/Relazione_boids.pdf .
 
 La simulazione è basata sul modello dei **Boids**, introdotto da Craig Reynolds, in cui il comportamento complesso dello stormo emerge dall'interazione di singoli agenti che seguono semplici regole locali.
 
